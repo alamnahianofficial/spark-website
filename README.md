@@ -1,6 +1,6 @@
 # Spark — Official Website
 
-![Spark Website Screenshot](assets/screenshot.png)
+![Spark Website Preview](assets/preview.jpg)
 
 Official website for **Spark**, an English-medium academic coaching centre based in Uttara, Dhaka. Founded in 2019, Spark has grown from a single student to a community of 1,500+ learners preparing for Cambridge (CIE) and Edexcel (Pearson) qualifications.
 
